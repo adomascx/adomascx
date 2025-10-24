@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/adomascx/adomascx/output/snake.svg" alt="Snake animation" />
+<a href="https://github.com/Platane/snk"><img src="https://raw.githubusercontent.com/adomascx/adomascx/output/snake.svg" alt="Snake animation" /></a>
 
 ###
