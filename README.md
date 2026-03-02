@@ -3,9 +3,14 @@
 ###
 
 <div align="center">
-  <img src="profile/stats.svg" height="150" alt="stats graph"  />
-  <img src="profile/top-langs.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/adomascx/adomascx/profile/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/adomascx/adomascx/profile/top-langs.svg" height="150" alt="languages graph"  />
 </div>
+
+###
+
+![Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ###
 
