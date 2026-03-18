@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adomascx/adomascx/4a7c3effa15fb92aee821bd16bd83d6635f47cbd/profile/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/adomascx/adomascx/4a7c3effa15fb92aee821bd16bd83d6635f47cbd/profile/top-langs.svg" height="150" alt="languages graph"  />
+  <img src="profile/stats.svg" height="150" alt="stats graph"  />
+  <img src="profile/top-langs.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
